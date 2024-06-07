@@ -7,7 +7,7 @@
 <p align="center">
   A windows taskbar based on Pyside2
 </p>
-# Windows-PowerBar
+
 
 作者:[Gentlesprite](https://github.com/Gentlesprite)
 
