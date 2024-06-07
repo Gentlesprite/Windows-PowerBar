@@ -2,7 +2,7 @@
 
 作者:[Gentlesprite](https://github.com/Gentlesprite)
 
-![image](https://github.com/Gentlesprite/Windows-PowerBar/blob/main/20240607115947.png)
+![image](https://github.com/Gentlesprite/Windows-PowerBar/blob/main/res/powerbarlogo.png)
 
 基于python实现，软件完全免费使用
 
@@ -25,5 +25,5 @@ Github:[点击跳转下载](https://github.com/Gentlesprite/Windows-PowerBar/rel
 
 # 支持作者:
 
-![image](https://github.com/Gentlesprite/Windows-PowerBar/blob/main/20240607115910.png)
+![image](https://github.com/Gentlesprite/Windows-PowerBar/blob/main/res/pay.png)
 
