@@ -10,6 +10,7 @@
 在windows任务栏快速切换电源选项
 
 # 下载地址:
+蓝奏云:[点击跳转下载 密码:5ic7](https://wwm.lanzn.com/b0foivjib)
 Github:[点击跳转下载](https://github.com/Gentlesprite/WindowsPowerBar/releases)
 
 # 效果如下:
