@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="15%" align="center" src="/res/powerbarlogo.png" alt="logo">
+  <img width="15%" align="center" src="https://github.com/Gentlesprite/windows-powerbar/blob/main/res/powerbarlogo.png" alt="logo">
 </p>
   <h1 align="center">
   Windows-PowerBar
@@ -23,7 +23,7 @@ Github:[点击跳转下载](https://github.com/Gentlesprite/Windows-PowerBar/rel
 
 # 效果如下:
 
-![image](/res/show.png)
+![image](https://github.com/Gentlesprite/windows-powerbar/blob/main/res/show.png)
 
 # 联系作者:
   Telegram:@Gentlesprite
@@ -32,5 +32,5 @@ Github:[点击跳转下载](https://github.com/Gentlesprite/Windows-PowerBar/rel
 
 # 支持作者:
 
-![image](/res/pay.png)
+![image](https://github.com/Gentlesprite/windows-powerbar/blob/main/res/pay.png)
 
