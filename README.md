@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="15%" align="center" src="res/powerbarlogo.png" alt="logo">
+  <img width="15%" align="center" src="/res/powerbarlogo.png" alt="logo">
 </p>
   <h1 align="center">
   Windows-PowerBar
