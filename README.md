@@ -18,5 +18,5 @@
 联系作者:Telegram:@Gentlesprite
 
 支持作者:
-![image](https://github.com/Gentlesprite/WindowsPowerBar/blob/main/20240607115911.png)
-![image](https://github.com/Gentlesprite/WindowsPowerBar/blob/main/20240607115912.png)
+![image](https://github.com/Gentlesprite/WindowsPowerBar/blob/main/20240607115911.jpg)
+![image](https://github.com/Gentlesprite/WindowsPowerBar/blob/main/20240607115912.jpg)
