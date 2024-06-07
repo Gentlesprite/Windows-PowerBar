@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Python-3.8.1-blue.svg?color=00B16A" alt="Python 3.9.7"/>
   </a>
   <a style="text-decoration:none">
-    <img src="https://img.shields.io/badge/Pyside2%20-blue?color=00B16A" alt="Pyside2"/>
+    <img src="https://img.shields.io/badge/base-Pyside2%20-blue?color=00B16A" alt="base Pyside2"/>
   </a>
   <a style="text-decoration:none">
     <img src="https://img.shields.io/badge/Platform-Windows%20-blue?color=00B16A" alt="Platform Windows"/>
