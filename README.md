@@ -1,8 +1,13 @@
+<p align="center">
+  <img width="15%" align="center" src="[app/resource/images/logo/logo.png](https://github.com/Gentlesprite/Windows-PowerBar/blob/main/res/powerbarlogo.png)" alt="logo">
+</p>
+  <h1 align="center">
+  Groove Music
+</h1>
+<p align="center">
+  A cross-platform music player based on PyQt5
+</p>
 # Windows-PowerBar
-
-
-
-![image](https://github.com/Gentlesprite/Windows-PowerBar/blob/main/res/powerbarlogo.png)
 
 作者:[Gentlesprite](https://github.com/Gentlesprite)
 
