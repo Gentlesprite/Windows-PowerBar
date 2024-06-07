@@ -9,6 +9,9 @@
 
 在windows任务栏快速切换电源选项
 
+# 下载地址:
+([https://markdown.com.cn](https://github.com/Gentlesprite/WindowsPowerBar/releases) "点击跳转下载")。
+
 # 效果如下:
 
 ![image](https://github.com/Gentlesprite/WindowsPowerBar/blob/main/20240607115957.png)
