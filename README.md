@@ -1,6 +1,7 @@
 # WindowsPowerBar
-![image](https://github.com/Gentlesprite/WindowsPowerBar/blob/main/20240607115947.png)
+
 作者:Gentlesprite
+![image](https://github.com/Gentlesprite/WindowsPowerBar/blob/main/20240607115947.png)
 
 基于python实现
 
