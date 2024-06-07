@@ -23,7 +23,7 @@ Github:[点击跳转下载](https://github.com/Gentlesprite/Windows-PowerBar/rel
 
 # 效果如下:
 
-![image](res/show.png)
+![image](/res/show.png)
 
 # 联系作者:
   Telegram:@Gentlesprite
@@ -32,5 +32,5 @@ Github:[点击跳转下载](https://github.com/Gentlesprite/Windows-PowerBar/rel
 
 # 支持作者:
 
-![image](res/pay.png)
+![image](/res/pay.png)
 
