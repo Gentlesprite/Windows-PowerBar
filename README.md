@@ -24,10 +24,10 @@
 
 作者:[Gentlesprite](https://github.com/Gentlesprite)
 
-基于python实现，软件完全免费使用
+基于python实现，软件完全免费使用。
 
 
-在windows任务栏快速切换电源选项
+在windows任务栏快速切换电源选项。
 
 # 下载地址:
 蓝奏云:[点击跳转下载](https://wwm.lanzn.com/b0foivjib) 密码:5ic7
@@ -35,6 +35,8 @@
 Github:[点击跳转下载](https://github.com/Gentlesprite/Windows-PowerBar/releases)
 
 # 效果图:
+
+B站视频:[点击跳转观看](https://www.bilibili.com/video/BV1oy411B7aL/?share_source=copy_web&vd_source=364b06fa5237cb92bdeaf66c7ba13830)
 
 ![image](https://github.com/Gentlesprite/windows-powerbar/blob/main/res/show.png)
 
