@@ -1,4 +1,4 @@
-# WindowsPowerBar
+# Windows-PowerBar
 
 作者:[Gentlesprite](https://github.com/Gentlesprite)
 
