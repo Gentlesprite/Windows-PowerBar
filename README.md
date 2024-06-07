@@ -21,7 +21,7 @@
 
 Github:[点击跳转下载](https://github.com/Gentlesprite/Windows-PowerBar/releases)
 
-# 效果如下:
+# 效果图:
 
 ![image](https://github.com/Gentlesprite/windows-powerbar/blob/main/res/show.png)
 
