@@ -5,7 +5,7 @@
   Windows-PowerBar
 </h1>
 <p align="center">
-  A cross-platform music player based on PyQt5
+  A windows taskbar based on Pyside2
 </p>
 # Windows-PowerBar
 
