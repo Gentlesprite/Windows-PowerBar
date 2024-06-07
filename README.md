@@ -2,7 +2,7 @@
 
 作者:[Gentlesprite](https://github.com/Gentlesprite)
 
-![image](https://github.com/Gentlesprite/WindowsPowerBar/blob/main/20240607115947.png)
+![image](https://github.com/Gentlesprite/Windows-PowerBar/blob/main/20240607115947.png)
 
 基于python实现，软件完全免费使用
 
@@ -12,13 +12,13 @@
 # 下载地址:
 蓝奏云:[点击跳转下载](https://wwm.lanzn.com/b0foivjib) 密码:5ic7
 
-Github:[点击跳转下载](https://github.com/Gentlesprite/WindowsPowerBar/releases)
+Github:[点击跳转下载](https://github.com/Gentlesprite/Windows-PowerBar/releases)
 
 # 效果如下:
 
-![image](https://github.com/Gentlesprite/WindowsPowerBar/blob/main/20240607115957.png)
-![image](https://github.com/Gentlesprite/WindowsPowerBar/blob/main/20240607115314.png)
-![image](https://github.com/Gentlesprite/WindowsPowerBar/blob/main/20240607115951.png)
+![image](https://github.com/Gentlesprite/Windows-PowerBar/blob/main/20240607115957.png)
+![image](https://github.com/Gentlesprite/Windows-PowerBar/blob/main/20240607115314.png)
+![image](https://github.com/Gentlesprite/Windows-PowerBar/blob/main/20240607115951.png)
 
 # 联系作者:
   Telegram:@Gentlesprite
@@ -27,5 +27,5 @@ Github:[点击跳转下载](https://github.com/Gentlesprite/WindowsPowerBar/rele
 
 # 支持作者:
 
-![image](https://github.com/Gentlesprite/WindowsPowerBar/blob/main/20240607115910.png)
+![image](https://github.com/Gentlesprite/Windows-PowerBar/blob/main/20240607115910.png)
 
