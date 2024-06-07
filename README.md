@@ -16,9 +16,7 @@ Github:[点击跳转下载](https://github.com/Gentlesprite/Windows-PowerBar/rel
 
 # 效果如下:
 
-![image](https://github.com/Gentlesprite/Windows-PowerBar/blob/main/20240607115957.png)
-![image](https://github.com/Gentlesprite/Windows-PowerBar/blob/main/20240607115314.png)
-![image](https://github.com/Gentlesprite/Windows-PowerBar/blob/main/20240607115951.png)
+![image](https://github.com/Gentlesprite/Windows-PowerBar/blob/main/res/show.png)
 
 # 联系作者:
   Telegram:@Gentlesprite
