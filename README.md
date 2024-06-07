@@ -1,6 +1,6 @@
 # WindowsPowerBar
 
-作者:Gentlesprite
+作者:[Gentlesprite](https://github.com/Gentlesprite)
 
 ![image](https://github.com/Gentlesprite/WindowsPowerBar/blob/main/20240607115947.png)
 
