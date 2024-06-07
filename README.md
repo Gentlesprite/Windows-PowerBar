@@ -1,8 +1,10 @@
 # Windows-PowerBar
 
-作者:[Gentlesprite](https://github.com/Gentlesprite)
+
 
 ![image](https://github.com/Gentlesprite/Windows-PowerBar/blob/main/res/powerbarlogo.png)
+
+作者:[Gentlesprite](https://github.com/Gentlesprite)
 
 基于python实现，软件完全免费使用
 
