@@ -2,7 +2,7 @@
   <img width="15%" align="center" src="https://github.com/Gentlesprite/windows-powerbar/blob/main/res/powerbarlogo.png" alt="logo">
 </p>
   <h1 align="center">
-  Windows-PowerBar
+  windows-powerbar
 </h1>
 <p align="center">
   A windows taskbar based on Pyside2
