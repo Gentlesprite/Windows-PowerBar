@@ -7,7 +7,17 @@
 <p align="center">
   A windows taskbar based on Pyside2
 </p>
-
+<p align="center">
+  A file time changer tool on windows platform based on Pyside6-QFluentWidgets
+</p>
+<p align="center">
+  <a style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Python-3.8.1-blue.svg?color=00B16A" alt="Python 3.9.7"/>
+  </a>
+  <a style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Platform-Windows%20-blue?color=00B16A" alt="Platform Windows"/>
+  </a>
+</p>
 
 作者:[Gentlesprite](https://github.com/Gentlesprite)
 
