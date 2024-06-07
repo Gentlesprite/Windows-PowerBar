@@ -20,6 +20,7 @@ Github:[点击跳转下载](https://github.com/Gentlesprite/WindowsPowerBar/rele
 
 # 联系作者:
   Telegram:@Gentlesprite
+  
   邮箱:Gentlesprites@outlook.com
 
 # 支持作者:
