@@ -10,7 +10,7 @@
 在windows任务栏快速切换电源选项
 
 # 下载地址:
-([https://markdown.com.cn](https://github.com/Gentlesprite/WindowsPowerBar/releases) "点击跳转下载")。
+([点击跳转下载](https://github.com/Gentlesprite/WindowsPowerBar/releases))。
 
 # 效果如下:
 
